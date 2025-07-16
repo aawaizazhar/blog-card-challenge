@@ -26,7 +26,7 @@ A clean, responsive blog preview card featuring an eye-catching thumbnail image,
 
 - Solution URL: [https://github.com/aawaizazhar/blog-card-challenge](https://github.com/aawaizazhar/blog-card-challenge)
 
-- Live Site URL: <https://YOUR_DOMAIN.com>
+- Live Site URL: [https://blog-card-challenge-beta.vercel.app](https://blog-card-challenge-beta.vercel.app)
 
 ## Built With
 
