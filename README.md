@@ -24,7 +24,8 @@ A clean, responsive blog preview card featuring an eye-catching thumbnail image,
 
 ### Links
 
-- Solution URL: <https://github.com/YOUR_GITHUB_USERNAME/blog-preview-card>
+- Solution URL: [https://github.com/aawaizazhar/blog-card-challenge](https://github.com/aawaizazhar/blog-card-challenge)
+
 - Live Site URL: <https://YOUR_DOMAIN.com>
 
 ## Built With
