@@ -32,7 +32,7 @@ A clean, responsive blog preview card featuring an eye-catching thumbnail image,
 
 - Semantic **HTML5** markup
 - **CSS** custom properties
-- **Flexbox** & **Grid** layout
+- **Flexbox** & layout
 - Mobile-first workflow
 - [Google Fonts – Figtree](https://fonts.google.com/specimen/Figtree)
 
